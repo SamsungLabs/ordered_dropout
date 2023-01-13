@@ -1,0 +1,5 @@
+# jupyter
+matplotlib
+numpy
+torch>=1.11.0
+torchvision>=0.13.0
